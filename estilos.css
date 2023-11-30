@@ -19,3 +19,9 @@ button{
 button:hover{
     cursor: pointer;
 }
+input:hover{
+    background-color: aqua;
+}
+h1:hover{
+    background-color: green;
+}
